@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1459606262 source:c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\kolo i kula\koloikula\kolo.cpp
+	"kolo.h"
+	<math.h>
+	<iostream>
+
+1459696234 c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\kolo i kula\koloikula\kolo.h
+
+1459696234 source:c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\kolo i kula\koloikula\kula.cpp
+	"kula.h"
+	"kolo.h"
+	<math.h>
+	<iostream>
+
+1459696105 c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\kolo i kula\koloikula\kula.h
+	"kolo.h"
+
+1459676074 source:c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\kolo i kula\koloikula\main.cpp
+	<iostream>
+	"kolo.h"
+	"kula.h"
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1459685519 source:c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\abstrakcyjna\abstrakcyjna\main.cpp
+	<iostream>
+	<list>
+	<cstdlib>
+	<ctime>
+	"ksztalt.h"
+	"kolo.h"
+	"kwadrat.h"
+	"trojkat.h"
+
+1459682199 c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\abstrakcyjna\abstrakcyjna\ksztalt.h
+
+1459682655 c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\abstrakcyjna\abstrakcyjna\kolo.h
+	<cmath>
+
+1459682655 c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\abstrakcyjna\abstrakcyjna\kwadrat.h
+
+1459685519 c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\abstrakcyjna\abstrakcyjna\trojkat.h
+

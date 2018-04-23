@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1458172195 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\mars\marsjanin\main.cpp
+	<iostream>
+	<list>
+	"marsjanin.h"
+
+1458172209 c:\users\mateusz\documents\1.programy\lab4 klasy ii\mars\marsjanin\marsjanin.h
+

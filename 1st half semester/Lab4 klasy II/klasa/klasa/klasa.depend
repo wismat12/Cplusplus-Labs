@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1457643202 source:c:\users\mateusz\documents\1.programy\nowy\klasa\klasa\punkt.cpp
+	"punkt.h"
+	<math.h>
+	<iostream>
+
+1457643280 c:\users\mateusz\documents\1.programy\nowy\klasa\klasa\punkt.h
+
+1457955395 source:c:\users\mateusz\documents\1.programy\lab3 - klasy i\klasa\klasa\punkt.cpp
+	"punkt.h"
+	<math.h>
+	<iostream>
+
+1457955415 c:\users\mateusz\documents\1.programy\lab3 - klasy i\klasa\klasa\punkt.h
+
+1457699847 source:c:\users\mateusz\documents\1.programy\lab3 - klasy i\klasa\klasa\square.cpp
+	<math.h>
+	<iostream>
+	"square.h"
+	"punkt.h"
+
+1457644751 c:\users\mateusz\documents\1.programy\lab3 - klasy i\klasa\klasa\square.h
+	"punkt.h"
+
+1457955547 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\klasa\klasa\main.cpp
+	<iostream>
+	"punkt.h"
+	"square.h"
+
+1457955415 c:\users\mateusz\documents\1.programy\lab4 klasy ii\klasa\klasa\punkt.h
+
+1457644751 c:\users\mateusz\documents\1.programy\lab4 klasy ii\klasa\klasa\square.h
+	"punkt.h"
+
+1457955395 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\klasa\klasa\punkt.cpp
+	"punkt.h"
+	<math.h>
+	<iostream>
+
+1457699847 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\klasa\klasa\square.cpp
+	<math.h>
+	<iostream>
+	"square.h"
+	"punkt.h"
+

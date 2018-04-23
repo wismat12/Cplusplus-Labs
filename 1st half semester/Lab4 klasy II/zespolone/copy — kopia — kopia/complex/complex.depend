@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1457712361 source:c:\users\mateusz\documents\1.programy\nowy\zespolone\complex\main.cpp
+	<iostream>
+	"complex.h"
+	<cmath>
+
+1457722503 c:\users\mateusz\documents\1.programy\nowy\zespolone\complex\complex.h
+
+1457715458 source:c:\users\mateusz\documents\1.programy\nowy\zespolone\complex\complex.cpp
+	"complex.h"
+	<math.h>
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+
+1457712361 source:c:\users\mateusz\documents\1.programy\lab3 - klasy i\zespolone\complex\main.cpp
+	<iostream>
+	"complex.h"
+	<cmath>
+
+1457956177 c:\users\mateusz\documents\1.programy\lab3 - klasy i\zespolone\complex\complex.h
+
+1458225112 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\complex\main.cpp
+	<iostream>
+	"complex.h"
+	"matrix.h"
+	<cmath>
+	<vector>
+	<sstream>
+
+1458156643 c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\complex\complex.h
+	<string>
+
+1458167506 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\complex\complex.cpp
+	"complex.h"
+	<math.h>
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<iomanip>
+
+1458225085 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\complex\matrix.cpp
+	"complex.h"
+	<math.h>
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<vector>
+	<iomanip>
+	"matrix.h"
+
+1458222690 c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\complex\matrix.h
+	"complex.h"
+
+1458238890 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\copy\complex\complex.cpp
+	"complex.h"
+	<math.h>
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<iomanip>
+
+1458238882 c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\copy\complex\complex.h
+	<string>
+
+1458240412 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\copy\complex\main.cpp
+	<iostream>
+	"complex.h"
+	"matrix.h"
+	<cmath>
+	<vector>
+	<sstream>
+
+1458222690 c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\copy\complex\matrix.h
+	"complex.h"
+
+1458240412 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\copy\complex\matrix.cpp
+	"complex.h"
+	<math.h>
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<vector>
+	<iomanip>
+	"matrix.h"
+
+1458342820 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\copy — kopia\complex\main.cpp
+	<iostream>
+	"complex.h"
+	"matrix.h"
+	<cmath>
+	<vector>
+	<sstream>
+
+1458238882 c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\copy — kopia\complex\complex.h
+	<string>
+
+1458342820 c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\copy — kopia\complex\matrix.h
+	"complex.h"
+
+1458342820 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\copy — kopia\complex\matrix.cpp
+	"complex.h"
+	<cmath>
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<vector>
+	<iomanip>
+	"matrix.h"
+
+1458311595 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\copy — kopia\complex\complex.cpp
+	"complex.h"
+	<math.h>
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<iomanip>
+
+1458311595 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\copy — kopia — kopia\complex\complex.cpp
+	"complex.h"
+	<math.h>
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<iomanip>
+
+1458238882 c:\users\mateusz\documents\1.programy\lab4 klasy ii\zespolone\copy — kopia — kopia\complex\complex.h
+	<string>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1459688627 source:c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\polimorfizm_z_6\polimorfizm\klasy.cpp
+
+1459695675 source:c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\polimorfizm_z_6\polimorfizm\main.cpp
+	<iostream>
+	"klasy.h"
+
+1459695631 c:\users\mateusz\documents\1.programy\lab6 dziedziczenie\polimorfizm_z_6\polimorfizm\klasy.h
+	<iostream>
+	<string>
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1457696695 source:c:\users\mateusz\documents\1.programy\nowy\dynamiczna\dynamiczna\main.cpp
+	<iostream>
+	"dtab.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1457696676 source:c:\users\mateusz\documents\1.programy\nowy\dynamiczna\dynamiczna\dtab.cpp
+	"dtab.h"
+	<iostream>
+
+1457681481 c:\users\mateusz\documents\1.programy\nowy\dynamiczna\dynamiczna\dtab.h
+
+1459332118 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\dynamiczna\dynamiczna\main.cpp
+	<iostream>
+	"dtab.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1459332011 c:\users\mateusz\documents\1.programy\lab4 klasy ii\dynamiczna\dynamiczna\dtab.h
+
+1459332011 source:c:\users\mateusz\documents\1.programy\lab4 klasy ii\dynamiczna\dynamiczna\dtab.cpp
+	"dtab.h"
+	<iostream>
+

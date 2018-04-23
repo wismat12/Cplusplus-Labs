@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1459700614 source:c:\users\mateusz\documents\1.programy\lab5 operatory\dynamiczna\dtab.cpp
+	"dtab.h"
+	<iostream>
+	<iomanip>
+
+1459383150 c:\users\mateusz\documents\1.programy\lab5 operatory\dynamiczna\dtab.h
+	<iomanip>
+
+1459700066 source:c:\users\mateusz\documents\1.programy\lab5 operatory\dynamiczna\main.cpp
+	<iostream>
+	"dtab.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+

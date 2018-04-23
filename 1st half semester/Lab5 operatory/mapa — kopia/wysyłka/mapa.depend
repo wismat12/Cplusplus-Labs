@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1459288674 source:c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\mapa\main.cpp
+	<iostream>
+	"mapa.h"
+
+1459287317 c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\mapa\mapa.h
+	<list>
+	<string>
+	"para.h"
+
+1459290555 c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\mapa\para.h
+
+1459290712 source:c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\mapa\para.cpp
+	<iostream>
+	"para.h"
+	<string>
+
+1459290816 source:c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\mapa\mapa.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	"mapa.h"
+	"para.h"
+	<algorithm>
+	<list>
+
+1459698160 source:c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\nowy folder\main.cpp
+	<iostream>
+	"mapa.h"
+
+1459697196 c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\nowy folder\mapa.h
+	<list>
+	<string>
+	"para.h"
+
+1459697196 c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\nowy folder\para.h
+
+1459290712 source:c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\nowy folder\para.cpp
+	<iostream>
+	"para.h"
+	<string>
+
+1459699356 source:c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\nowy folder\mapa.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	"mapa.h"
+	"para.h"
+	<algorithm>
+	<list>
+
+1459954033 source:c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\clean\main.cpp
+	<iostream>
+	"mapa.h"
+
+1459867176 c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\clean\mapa.h
+	<list>
+	<string>
+	"para.h"
+
+1459702154 c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\clean\para.h
+
+1459867361 source:c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\clean\mapa.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	"mapa.h"
+	"para.h"
+	<algorithm>
+	<list>
+
+1459866973 source:c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\clean\para.cpp
+	<iostream>
+	"para.h"
+	<string>
+
+1459974679 source:c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\wysy³ka\main.cpp
+	<iostream>
+	"mapa.h"
+
+1459867176 c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\wysy³ka\mapa.h
+	<list>
+	<string>
+	"para.h"
+
+1459702154 c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\wysy³ka\para.h
+
+1459975201 source:c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\wysy³ka\mapa.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	"mapa.h"
+	"para.h"
+	<algorithm>
+	<list>
+
+1459866973 source:c:\users\mateusz\documents\1.programy\lab5 operatory\mapa\wysy³ka\para.cpp
+	<iostream>
+	"para.h"
+	<string>
+
